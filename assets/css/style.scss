@@ -2,4 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
-/*Rest here*/
+.page-header {
+    border: none;
+    background: #111;
+}
+.main-content {
+    h1 {
+        color: #FDFD00
+    }
+}
