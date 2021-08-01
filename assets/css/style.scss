@@ -13,12 +13,13 @@ header h1, header.page-header {
     border-radius: 0px;
     background: #333;
     color: #FFF;
-    text-shadow: none;
+    font-size: 24px;
     font-family: 'Montserrat', sans-serif;
 }
 
 a {
     color: #ACACCC;
+    font-size: 16px;
 }
 
 .nav-bar {
@@ -27,17 +28,18 @@ a {
     align-items: center;
 }
 
-ul.nav-bar {
+.nav-bar ul {
     list-style-type: none;
     margin-right: 20px;
 }
 
-li.nav-bar {
+.nav-bar ul li {
     display: inline-block;
 }
 
 footer.site-footer {
     width: 0px;
+    color: #FFF;
 }
 
 .main-content {
@@ -51,6 +53,7 @@ footer.site-footer {
     
     p, strong {
         color: #FFF;
+        font-size: 16px;
     }
 
     code {
@@ -58,5 +61,6 @@ footer.site-footer {
         background: #222;
         border:#444 solid 1px;
         color: #FD5;
+        font-size: 16px;
     }
 }
