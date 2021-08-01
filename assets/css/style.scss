@@ -21,8 +21,12 @@ a {
     color: #ACACCC;
 }
 
-div .nav-bar {
-    display: inline;
+div .nav-bar-right {
+    float: right;
+}
+
+div .project-name {
+    float: left;
 }
 
 footer.site-footer {
