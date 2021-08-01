@@ -1,6 +1,7 @@
 # Home
 
-An overview of all things Fluid Dimensions. Generic description here, and enjoy!
+An overview of all things Fluid Dimensions. This is a pack that enhances and extends the end-game,
+with new locations and mechanics to explore just outside of the vanilla dimensions.
 
 ## Features
 
