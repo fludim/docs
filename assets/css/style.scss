@@ -9,9 +9,10 @@ body {
 }
 
 .page-header, header {
+    border: none;
     border-radius: 0px;
     background: #333;
-    color: #FFF;
+    color: #FFF !important;
     text-shadow: none;
 }
 
@@ -24,6 +25,6 @@ body {
     }
     
     p {
-        color: #ffbbee
+        color: #FFF2FF;
     }
 }
