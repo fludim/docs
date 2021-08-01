@@ -8,13 +8,13 @@ body {
     padding: 50px 20px;
 }
 
-header h1 {
+header h1, header.pageheader {
     border: none;
     border-radius: 0px;
     background: #333;
     color: #FFF;
-    text-decoration: none;
     text-shadow: none;
+    font-family: 'Montserrat', sans-serif;
 }
 
 a {
@@ -24,7 +24,8 @@ a {
 .main-content {
     margin-left: 20px;
     margin-top: 20px;
-
+    font-family: 'Roboto', sans-serif;
+    
     h1, h2, h3 {
         color: #FDFDDD
     }
