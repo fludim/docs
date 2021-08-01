@@ -8,12 +8,16 @@ body {
     padding: 50px 20px;
 }
 
-.page-header, header {
+header {
     border: none;
     border-radius: 0px;
     background: #333;
-    color: #FFF !important;
+    color: #FFF;
     text-shadow: none;
+}
+
+a {
+    color: #55D;
 }
 
 .main-content {
@@ -24,7 +28,13 @@ body {
         color: #FDFDDD
     }
     
-    p {
+    p, strong {
         color: #FFF2FF;
+    }
+
+    code {
+        padding: 4px;
+        background: #222;
+        color: #FD5;
     }
 }
