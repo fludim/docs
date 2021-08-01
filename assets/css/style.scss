@@ -27,7 +27,11 @@ a {
     align-items: center;
 }
 
-a .nav-bar {
+ul .nav-bar {
+    list-style-type: none;
+}
+
+li .nav-bar {
     display: inline-block;
 }
 
