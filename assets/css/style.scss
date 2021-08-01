@@ -8,11 +8,12 @@ body {
     padding: 50px 20px;
 }
 
-header {
+header h1 {
     border: none;
     border-radius: 0px;
     background: #333;
     color: #FFF;
+    text-decoration: none;
     text-shadow: none;
 }
 
@@ -35,6 +36,7 @@ a {
     code {
         padding: 4px;
         background: #222;
+        border:#444 dashed 1px;
         color: #FD5;
     }
 }
