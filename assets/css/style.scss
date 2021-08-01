@@ -21,12 +21,14 @@ a {
     color: #ACACCC;
 }
 
-div .nav-bar-right {
-    float: right;
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-div .project-name {
-    float: left;
+a .nav-bar {
+    display: inline-block;
 }
 
 footer.site-footer {
@@ -47,8 +49,7 @@ footer.site-footer {
     }
 
     code {
-        padding: 4px;
-        margin-top: -2px;
+        padding: 2px 6px 6px 6px;
         background: #222;
         border:#444 solid 1px;
         color: #FD5;
