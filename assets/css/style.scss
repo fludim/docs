@@ -18,7 +18,11 @@ header h1, header.page-header {
 }
 
 a {
-    color: #6A6AAA;
+    color: #ACACCC;
+}
+
+div .nav-bar {
+    display: inline;
 }
 
 footer.site-footer {
@@ -35,13 +39,14 @@ footer.site-footer {
     }
     
     p, strong {
-        color: #FFF2FF;
+        color: #FFF;
     }
 
     code {
         padding: 4px;
+        margin-top: -2px;
         background: #222;
-        border:#444 dashed 1px;
+        border:#444 solid 1px;
         color: #FD5;
     }
 }
