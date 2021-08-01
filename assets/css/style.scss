@@ -2,12 +2,16 @@
 ---
 
 @import "{{ site.theme }}";
-.page-header {
+.page-header, header {
     border-radius: 0px;
     background: #333;
 }
 .main-content {
-    h1 {
+    h1, h2, h3 {
         color: #FDFDDD
+    }
+    
+    p {
+        color: #ffbbee
     }
 }
