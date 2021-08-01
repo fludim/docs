@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+// @import "{{ site.theme }}";
 
 body {
     background: #000;
@@ -29,6 +29,7 @@ a {
 
 ul .nav-bar {
     list-style-type: none;
+    margin-right: 20px;
 }
 
 li .nav-bar {
