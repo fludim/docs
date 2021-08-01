@@ -8,14 +8,17 @@ body {
     padding: 50px 20px;
 }
 
-header h1, header.page-header {
+header.page-header {
     border: none;
     border-radius: 0px;
     background: #333;
     color: #FFF;
-    margin-left: 20px;
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
+}
+
+header h1 {
+    margin-left: 20px;
 }
 
 a {
@@ -36,6 +39,7 @@ a {
 
 .nav-bar ul li {
     display: inline-block;
+    padding: 0px 10px;
 }
 
 .nav-bar a {
@@ -64,7 +68,7 @@ footer.site-footer {
     }
 
     code {
-        padding: 6px 6px 2px 6px;
+        padding: 2px 4px 2px 4px;
         background: #222;
         border:#444 solid 1px;
         color: #FD5;
