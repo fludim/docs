@@ -13,13 +13,14 @@ header h1, header.page-header {
     border-radius: 0px;
     background: #333;
     color: #FFF;
+    margin-left: 20px;
     font-size: 24px;
     font-family: 'Montserrat', sans-serif;
 }
 
 a {
     color: #ACACCC;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .nav-bar {
@@ -30,11 +31,16 @@ a {
 
 .nav-bar ul {
     list-style-type: none;
-    margin-right: 20px;
+    margin-right: 40px;
 }
 
 .nav-bar ul li {
     display: inline-block;
+}
+
+.nav-bar a {
+    text-decoration: none;
+    font-size: 16px;
 }
 
 footer.site-footer {
@@ -45,6 +51,7 @@ footer.site-footer {
 .main-content {
     margin-left: 20px;
     margin-top: 20px;
+    line-height: 20px;
     font-family: 'Roboto', sans-serif;
 
     h1, h2, h3 {
@@ -53,7 +60,7 @@ footer.site-footer {
     
     p, strong {
         color: #FFF;
-        font-size: 16px;
+        font-size: 14px;
     }
 
     code {
@@ -61,6 +68,6 @@ footer.site-footer {
         background: #222;
         border:#444 solid 1px;
         color: #FD5;
-        font-size: 16px;
+        font-size: 12px;
     }
 }
