@@ -13,6 +13,7 @@ Fluid Dimensions brings:
 - 1 new boss, summonable via the currently unobtainable item:
 
     `/function fluid_dimensions:give/stygian_iris`
+
 - 3 new enemies: Cochineals (neutral unless you approach), Haunted Armour and Psirots.
 - Over 17 new items, with unique uses, including mob drops, materials, and tools.
 - 5 custom blocks, including a custom crafter found rarely in the stacks structure.
@@ -21,13 +22,14 @@ Fluid Dimensions brings:
 - Travel between dimensions by flying, falling, and 'tunnelling' through bedrock - without breaking it - (Nadir Tunneller only available via the give command for now:
 
     `/function fluid_dimensions:give/nadir_tunneller`
+
 - Navigate 5 characterful yet very hostile biomes in the Underridge, with 30 custom decoration and terrain building features. It can be a challenge even in endgame!
 - Will soon hopefully be an MCD Certified Datapack, following optional style guidelines.
 - Original assets for all custom items, blocks and mobs in the required resource pack.
 
 ## Download
 
-Go to [Download](/download) to download the pack for yourself.
+Go to [Download](/docs/download) to download the pack for yourself.
 
 ## Uninstall
 
