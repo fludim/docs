@@ -27,12 +27,12 @@ a {
     align-items: center;
 }
 
-ul .nav-bar {
+ul.nav-bar {
     list-style-type: none;
     margin-right: 20px;
 }
 
-li .nav-bar {
+li.nav-bar {
     display: inline-block;
 }
 
@@ -54,7 +54,7 @@ footer.site-footer {
     }
 
     code {
-        padding: 2px 6px 6px 6px;
+        padding: 6px 6px 2px 6px;
         background: #222;
         border:#444 solid 1px;
         color: #FD5;
