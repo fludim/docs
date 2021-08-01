@@ -3,11 +3,11 @@
 
 @import "{{ site.theme }}";
 .page-header {
-    border: none;
-    background: #111;
+    border-radius: 0px;
+    background: #333;
 }
 .main-content {
     h1 {
-        color: #FDFD00
+        color: #FDFDDD
     }
 }
