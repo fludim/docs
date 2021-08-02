@@ -32,7 +32,6 @@ Here you can find a list of features by type.
 </details>
 
 
-
 <details>
 <summary>Blocks</summary>
 
@@ -43,6 +42,18 @@ Here you can find a list of features by type.
 <img src="https://user-images.githubusercontent.com/69795628/127869608-7cda318f-b9e4-4e6f-8a7e-a12e8ccee83f.png" alt="Garnet Ore">
 <img src="https://user-images.githubusercontent.com/69795628/127869607-4b969243-6058-47a6-9f5b-5d9773807b85.png" alt="Garnet Block">
 <img src="https://user-images.githubusercontent.com/69795628/127869600-626a1825-0cbe-4086-8adb-82d32b3056a3.gif" alt="Ocular Forge">
+
+</div>
+
+</details>
+
+
+<details>
+<summary>Mobs</summary>
+
+<div class="gallery">
+
+
 
 </div>
 
