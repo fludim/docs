@@ -129,12 +129,12 @@ footer.site-footer {
         line-height: calc(-10px + 5vw);
     }
     
-    @media only screen and (min-width: 1400px) {
+    @media screen and (min-width: 1400px) {
         font-size: 28px;
         line-height: 32px;
     }
     
-    @media only screen and (max-width: 700px) {
+    @media screen and (max-width: 700px) {
       font-size: 14px;
       line-height: 16px;
     }
