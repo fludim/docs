@@ -41,12 +41,12 @@ function md_gallery(config) {
 		if ((el.tagName == 'A' && el.firstChild.tagName == 'IMG' && el.firstChild.hasAttribute('alt') && el.firstChild.getAttribute('alt').length > 0) || (el.tagName == 'IMG' && el.hasAttribute('alt') && el.getAttribute('alt').length > 0)) {
 			var caption = document.createElement('figcaption');
 			try {
-				caption.textContent = el.firstChild.getAttribute('alt')
+				caption.textContent = el.firstChild.getAttribute('alt');
 				el.appendChild(caption);
 			} catch (e) {
 				caption.textContent = el.getAttribute('alt');
 				el.parentNode.appendChild(caption);
-			}			
+			}
 		}
 	}
 	
