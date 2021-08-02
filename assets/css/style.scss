@@ -63,7 +63,7 @@ footer.site-footer {
         font-family: 'Montserrat', sans-serif;
     }
     
-    p, strong, summary {
+    p, strong {
         color: #FFF;
         font-size: 14px;
     }
@@ -86,6 +86,13 @@ footer.site-footer {
     }
 
     .gallery img {
+        display: block;
         width: 16%;
+    }
+
+    summary {
+        color: #FFF;
+        font-size: 14px;
+        margin-top: 10px;
     }
 }
