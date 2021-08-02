@@ -95,7 +95,7 @@ footer.site-footer {
 
     .gallery-centred img {
         width: 100%;
-        margin: 0px;
+        margin: auto;
     }
 
     summary {
@@ -124,6 +124,7 @@ footer.site-footer {
         display: flex;
         align-items: center;
         justify-content: center;
+        font-size: 24px;
     }
 
     .image-container:hover .overlay {
