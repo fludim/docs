@@ -124,8 +124,19 @@ footer.site-footer {
         display: flex;
         align-items: center;
         justify-content: center;
+        
+        font-size: calc(-14px + 4vw);
+        line-height: calc(-10px + 5vw);
+    }
+    
+    @media only screen and (min-width: 1400px) {
         font-size: 28px;
         line-height: 32px;
+    }
+    
+    @media only screen and (max-width: 700px) {
+      font-size: 14px;
+      line-height: 16px;
     }
 
     .image-container:hover .overlay {
