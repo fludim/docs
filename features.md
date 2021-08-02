@@ -51,7 +51,7 @@ Here you can find a list of features by type.
 <details>
 <summary>Mobs</summary>
 
-<div class="gallery">
+<div class="gallery gallery-centred">
 
 <img src="https://user-images.githubusercontent.com/69795628/127888756-f07b5921-839c-42a1-9b1b-a6ea9e0abbcd.png" alt="Cochineal">
 <img src="https://user-images.githubusercontent.com/69795628/127888760-0db721a5-7e32-460c-a662-32c6ac105075.gif" alt="Haunted Armour">
