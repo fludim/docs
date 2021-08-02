@@ -119,24 +119,18 @@ footer.site-footer {
         transition: .3s ease;
         opacity: 0;
         color: #FFF;
-        font-size: 20px;
         text-align: center;
         display: flex;
         align-items: center;
         justify-content: center;
         
-        font-size: calc(-14px + 4vw);
-        line-height: calc(-10px + 5vw);
+        font-size: calc(14px + 1.2vw);
+        line-height: calc(16px + 1.2vw);
     }
     
-    @media screen and (min-width: 1400px) {
-        font-size: 28px;
-        line-height: 32px;
-    }
-    
-    @media screen and (max-width: 700px) {
-      font-size: 14px;
-      line-height: 16px;
+    @media screen and (min-width: 1000px) {
+        font-size: 26px;
+        line-height: 30px;
     }
 
     .image-container:hover .overlay {
