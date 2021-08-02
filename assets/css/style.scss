@@ -93,8 +93,7 @@ footer.site-footer {
     .gallery-centred img {
         width: 16%;
         margin: 0px;
-        position: absolute;
-        top: 50%;
+        vertical-align: middle;
     }
 
     summary {
