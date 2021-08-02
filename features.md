@@ -2,13 +2,14 @@
 
 Here you can find a list of features by type.
 
-<details><summary>Dropdown Test</summary>
+<details>
+<summary>Dropdown Test</summary>
 
 + markdown list 1
 
-  + nested list 1
-
-  + nested list 2
+    + nested list 1
+    
+    + nested list 2
 
 + markdown list 2
 
