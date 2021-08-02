@@ -53,7 +53,11 @@ Here you can find a list of features by type.
 
 <div class="gallery">
 
-
+<img src="https://user-images.githubusercontent.com/69795628/127888756-f07b5921-839c-42a1-9b1b-a6ea9e0abbcd.png" alt="Cochineal">
+<img src="https://user-images.githubusercontent.com/69795628/127888760-0db721a5-7e32-460c-a662-32c6ac105075.gif" alt="Haunted Armour">
+<img src="https://user-images.githubusercontent.com/69795628/127888765-7ba19ee5-399a-4651-a5f1-57e5c297ad8a.gif" alt="Psirot">
+<img src="https://user-images.githubusercontent.com/69795628/127888764-4fce696f-86ec-451d-ae4d-f5f45742a259.png" alt="Midnight Pod">
+<img src="https://user-images.githubusercontent.com/69795628/127888762-09d035fd-0d3d-49fb-94ef-0bf6c23d8cec.png" alt="I">
 
 </div>
 
