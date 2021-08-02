@@ -63,7 +63,7 @@ footer.site-footer {
         font-family: 'Montserrat', sans-serif;
     }
     
-    p, strong {
+    p, strong, summary {
         color: #FFF;
         font-size: 14px;
     }
@@ -80,7 +80,8 @@ footer.site-footer {
         background: #666;
         border: none;
         border-radius: 10px;
-        width: 80%;
+        width: 1566px;
         padding: 30px;
+        margin: 20px 0px;
     }
 }
