@@ -83,17 +83,19 @@ footer.site-footer {
         width: 76%;
         padding: 2%;
         margin: 20px 0px;
+        display: grid;
+        grid-template-columns: repeat(6, 16%);
+        justify-content: center;
     }
 
     .gallery img {
-        width: 16%;
+        width: 100%;
         margin: 0px;
     }
 
     .gallery-centred img {
-        width: 16%;
-        margin: 0px;
-        vertical-align: middle;
+        width: 100%;
+        margin: auto;
     }
 
     summary {
@@ -102,25 +104,17 @@ footer.site-footer {
         margin-top: 10px;
     }
 
-    /* Container needed to position the overlay. Adjust the width as needed */
     .image-container {
         position: relative;
+        display: flex;
     }
 
-    /* Make the image to responsive */
-    // .image {
-        // display: block;
-        // width: 100%;
-        // height: auto;
-    // }
-
-    /* The overlay effect - lays on top of the container and over the image */
     .overlay {
         position: absolute;
         bottom: 0px;
-        background: rgba(0, 0, 0, 0.5); /* Black see-through */
+        background: rgba(0, 0, 0, 0.5);
         width: 100%;
-        transition: .5s ease;
+        transition: .3s ease;
         opacity: 0;
         color: #FFF;
         font-size: 20px;
@@ -130,7 +124,6 @@ footer.site-footer {
         padding: calc(8% - 10px) 0px;
     }
 
-    /* When you mouse over the container, fade in the overlay title */
     .image-container:hover .overlay {
         opacity: 1;
     }
