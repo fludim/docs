@@ -52,6 +52,15 @@ footer.site-footer {
     color: #FFF;
 }
 
+@media only screen and (max-width: 600px) {
+    .nav-bar a {
+        font-size: 12px!important;
+    }
+    header.page-header {
+        font-size: 16px!important;
+    }
+}
+
 .main-content {
     margin-left: 20px;
     margin-top: 20px;
@@ -129,13 +138,17 @@ footer.site-footer {
     }
     
     @media only screen and (max-width: 500px) {
-        font-size: 5px;
-        line-height: 7px;
+        .overlay {
+            font-size: 5px!important;
+            line-height: 7px!important;
+        }
     }
 
     @media only screen and (min-width: 900px) {
-        font-size: 20px;
-        line-height: 22px;
+        .overlay {
+            font-size: 20px!important;
+            line-height: 22px!important;
+        }
     }
 
     .image-container:hover .overlay {

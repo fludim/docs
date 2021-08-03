@@ -11,7 +11,7 @@ Here you can find a list of features by type.
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861001-0bcb7586-22ce-43a6-8db1-9769307a42fa.png" alt="Sky Pearl" class="image"><div class="overlay">Sky Pearl</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860974-09d8d529-1aca-4a86-b153-eb88218d18a5.png" alt="Fallen Apple" class="image"><div class="overlay">Fallen Apple</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861004-8499d6a0-93c0-4c3a-9522-b42ce59737e5.gif" alt="Universal Altimeter" class="image"><div class="overlay">Universal Altimeter</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861004-8499d6a0-93c0-4c3a-9522-b42ce59737e5.gif" alt="Universal Altimeter" class="image"><div class="overlay" onclick="alert('hi')">Universal Altimeter</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay">Nadir Gel</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay">Hiatuan Cloth</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860975-adf4b1fe-ced9-4d53-bfdb-6f6638608675.png" alt="Garnet" class="image"><div class="overlay">Garnet</div></div>
