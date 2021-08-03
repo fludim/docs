@@ -89,9 +89,9 @@ footer.site-footer {
         background: #666;
         border: none;
         border-radius: 10px;
-        width: 76%;
-        padding: 2%;
-        margin: 20px 0px;
+        width: 96%;
+        padding: 2% 0;
+        margin: 20px 20px 20px 0px;
         display: grid;
         grid-template-columns: repeat(6, 16%);
         justify-content: center;
@@ -107,7 +107,7 @@ footer.site-footer {
         margin: auto;
     }
 
-    summary {
+    summary, div.info {
         color: #FFF;
         font-size: 14px;
         margin-top: 10px;
@@ -153,5 +153,19 @@ footer.site-footer {
 
     .image-container:hover .overlay {
         opacity: 1;
+    }
+
+    div.selection-columns {
+        width:100%;
+        display:flex;
+    }
+
+    div.info {
+        flex: 40%;
+        background: #666;
+        margin: 50px 40px 70px 20px;
+        border: none;
+        border-radius: 10px;
+        padding: 2% 0 2% 2%;
     }
 }

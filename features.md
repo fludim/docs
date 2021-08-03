@@ -4,7 +4,12 @@ Here you can find a list of features by type.
 
 ## Categories
 
+<div class="selection-columns">
+
+<div class="selection">
+
 <details>
+
 <summary>Items</summary>
 
 <div class="gallery">
@@ -31,8 +36,8 @@ Here you can find a list of features by type.
 
 </details>
 
-
 <details>
+
 <summary>Blocks</summary>
 
 <div class="gallery">
@@ -47,8 +52,8 @@ Here you can find a list of features by type.
 
 </details>
 
-
 <details>
+
 <summary>Mobs</summary>
 
 <div class="gallery gallery-centred">
@@ -62,5 +67,11 @@ Here you can find a list of features by type.
 </div>
 
 </details>
+
+</div>
+
+<div class="info">Click a tile for more information</div>
+
+</div>
 
 [Top](#features)
