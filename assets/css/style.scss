@@ -156,8 +156,12 @@ footer.site-footer {
     }
 
     div.selection-columns {
-        width:100%;
-        display:flex;
+        width: 100%;
+        display: flex;
+    }
+
+    div.selection {
+        width: 60%;
     }
 
     div.info {
