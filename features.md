@@ -1,12 +1,13 @@
+
+<div class="selection-columns">
+
+<div class="selection">
+
 # Features
 
 Here you can find a list of features by type.
 
 ## Categories
-
-<div class="selection-columns">
-
-<div class="selection">
 
 <details>
 
