@@ -1,13 +1,12 @@
-
 <div class="selection-columns">
 
 <div class="selection">
 
-# Features
-
-Here you can find a list of features by type.
-
-## Categories
+<h1>Features</h1>
+<br>
+<p>Here you can find a list of features by type.
+<br>
+<h2>Categories</h2>
 
 <details>
 
@@ -18,9 +17,9 @@ Here you can find a list of features by type.
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861001-0bcb7586-22ce-43a6-8db1-9769307a42fa.png" alt="Sky Pearl" class="image"><div class="overlay" onclick="fetchInfo('sky-pearl')">Sky Pearl</div></div>
 <div id="sky-pearl" class="info-hidden">
 
-### Sky Pearl
-
-The Sky Pearl is an upcoming method of easily transporting between the Overworld and the Upper Sky. Right click with one of these and you will be taken to approximately your location in the other dimension. Will just break if used in a different dimension.
+<h3>Sky Pearl</h3>
+<hr>
+<p>The Sky Pearl is an upcoming method of easily transporting between the Overworld and the Upper Sky. Right click with one of these and you will be taken to approximately your location in the other dimension. Will just break if used in a different dimension.
 
 </div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860974-09d8d529-1aca-4a86-b153-eb88218d18a5.png" alt="Fallen Apple" class="image"><div class="overlay" onclick="fetchInfo('fallen-apple')">Fallen Apple</div></div>
