@@ -171,5 +171,10 @@ footer.site-footer {
         border: none;
         border-radius: 10px;
         padding: 2% 0 2% 2%;
+        height: 600px;
+    }
+
+    div.info-hidden {
+        display: none;
     }
 }
