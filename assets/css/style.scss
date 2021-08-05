@@ -57,7 +57,7 @@ footer.site-footer {
     outline: none;
     width: 40px;
     height: 40px;
-    background-color: #555;
+    background-color: #666;
     background-image: url('/docs/assets/rocket.png');
     background-size: 90%;
     cursor: pointer;
@@ -66,7 +66,7 @@ footer.site-footer {
 }
 
 #top-button:hover {
-    background-color: #777;
+    background-color: #888;
 }
 
 @media only screen and (max-width: 600px) {
@@ -139,7 +139,7 @@ footer.site-footer {
     .overlay {
         position: absolute;
         bottom: 0px;
-        background: rgba(0, 0, 0, 0.5);
+        background: #0000007F;
         width: 100%;
         height: 100%;
         transition: .3s ease;
