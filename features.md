@@ -27,7 +27,7 @@
 
 <div id="fallen-apple" class="info-hidden">
 <h3>Fallen Apple</h3><hr>
-<p>When eaten in the Nether while under the effects of levitation, it teleports you down into the Underridge.</p>
+<p>When eaten in the Nether under the effects of levitation, the player is teleported down into the Underridge.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Dropped from decaying oak leaves in the Nether.</p>
 </div>
@@ -65,20 +65,107 @@
 <h3>Garnet</h3><hr>
 <p>Garnets can be used to craft Garnet Blocks, and the Universal Altimeter.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>They can mined from the Garnet Gorge biome in the Underridge, or found in loot barrels in the stacks.</p>
+<h4>How to obtain</h4><p>Mined from the Garnet Gorge biome in the Underridge, or found in loot barrels in the stacks.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860999-299fb2ac-2f80-41c0-a134-40c48758150b.gif" alt="Nullite Piece" class="image"><div class="overlay" onclick="fetchInfo('nullite-piece')">Nullite Piece</div></div>
+
+<div id="nullite-piece" class="info-hidden">
+<h3>Nullite Piece</h3><hr>
+<p>A powerful yet mysterious resonating mineral, capable of being forged into nulliron for use in armour and tools.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Mined from most parts of the Underridge dimension.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860994-7000d9ae-cf36-47da-8411-6b0274ee87a2.gif" alt="Nulliron Ingot" class="image"><div class="overlay" onclick="fetchInfo('nulliron-ingot')">Nulliron Ingot</div></div>
+
+<div id="nulliron-ingot" class="info-hidden">
+<h3>Nulliron Ingot</h3><hr>
+<p>An alloy of nullite and iron, used to make armour and tools. It resonates just like nullite.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from nullite pieces and iron ingots, or from Nulliron Blocks.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860993-82cde2ec-6df5-4a81-bd9b-8b9d781b0dcb.gif" alt="Nulliron Helmet" class="image"><div class="overlay" onclick="fetchInfo('nulliron-helmet')">Nulliron Helmet</div></div>
+
+<div id="nulliron-helmet" class="info-hidden">
+<h3>Nulliron Helmet</h3><hr>
+<p>Not very durable, but gives 3 armour points and 1 armour toughness. Protects the wearer from suffocation damage.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from five nulliron ingots.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860990-59fc484b-13eb-445d-ab4a-6b458e3c7676.gif" alt="Nulliron Chestplate" class="image"><div class="overlay" onclick="fetchInfo('nulliron-chestplate')">Nulliron Chestplate</div></div>
+
+<div id="nulliron-chestplate" class="info-hidden">
+<h3>Nulliron Chestplate</h3><hr>
+<p>Not so durable, but gives 6 armour points and 2 armour toughness. Grants temporary immunity to fire and lava damage upon touching fire blocks.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from eight nulliron ingots.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860997-d62b9c21-dc4b-4f7d-843d-510b7596cfc0.gif" alt="Nulliron Leggings" class="image"><div class="overlay" onclick="fetchInfo('nulliron-leggings')">Nulliron Leggings</div></div>
+
+<div id="nulliron-leggings" class="info-hidden">
+<h3>Nulliron Leggings</h3><hr>
+<p>Not the most durable, but give 6 armour points and 2 armour toughness. Negate all knockback from attacks.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from seven nulliron ingots.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860988-b60ff9f0-2b97-44a7-935f-03aa55f30cef.gif" alt="Nulliron Boots" class="image"><div class="overlay" onclick="fetchInfo('nulliron-boots')">Nulliron Boots</div></div>
+
+<div id="nulliron-boots" class="info-hidden">
+<h3>Nulliron Boots</h3><hr>
+<p>Not very durable, give 2 armour points and 1 armour toughness. Protects the wearer from normal fall damage, will not be effective past a few hundred blocks though.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from four nulliron ingots.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860983-c56992b5-431a-4a8d-a8ef-2cb8ec5f3dde.png" alt="Midnight Broth" class="image"><div class="overlay" onclick="fetchInfo('midnight-broth')">Midnight Broth</div></div>
+
+<div id="midnight-broth" class="info-hidden">
+<h3>Midnight Broth</h3><hr>
+<p>A potent concoction, offering 9:00 of night vision and 8:40 of fire resistance, at the cost of 8:40 of slowness I.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Can be extracted renewably from Midnight Pods, or found in the stacks.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861002-04a7563b-0b1d-47a8-892d-c999fbf69fff.gif" alt="Stygian Iris" class="image"><div class="overlay" onclick="fetchInfo('stygian-iris')">Stygian Iris</div></div>
+
+<div id="stygian-iris" class="info-hidden">
+<h3>Stygian Iris</h3><hr>
+<p>I wonder where this idea came from... summons the boss of the Underridge, the I.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>1% drop chance from Psirots.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860978-cab6badd-efdf-401d-af9a-ef84fb64df52.png" alt="Heart of the Void" class="image"><div class="overlay" onclick="fetchInfo('heart-of-the-void')">Heart of the Void</div></div>
+
+<div id="heart-of-the-void" class="info-hidden">
+<h3>Heart of the Void</h3><hr>
+<p>A treasure item with a strong connection to the void. Used in crafting the Nadir Tunneller.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Dropped from I half of the time.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860987-4a36a205-cd0f-4000-8787-ece3753c7fa9.gif" alt="Nadir Tunneller" class="image"><div class="overlay" onclick="fetchInfo('nadir-tunneller')">Nadir Tunneller</div></div>
+
+<div id="nadir-tunneller" class="info-hidden">
+<h3>Nadir Tunneller</h3><hr>
+<p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of a dimension to create a portal, be prepared to fall straight through. A portal back will also be created on the underside of where you used it. Both portals last 10:00 but do not deplete when not loaded.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from copper ingots, nulliron ingots and a Heart of the Void.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860969-bce42d2b-7fd9-4f84-9a85-febb0087c40a.png" alt="Enchanted Warped Door" class="image"><div class="overlay" onclick="fetchInfo('enchanted-warped-door')">Enchanted Warped Door</div></div>
+
+<div id="enchanted-warped-door" class="info-hidden">
+<h3>Enchanted Warped Door</h3><hr>
+<p>Allows temporary escape to the warp dimension. Any distance travelled while floating there is multiplied sixteen-fold upon return. If no solid surface to teleport to is found, the player is dropped from above the height limit, usually when a liquid is below.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>[FUTURE] Found in loot barrels in the stacks.</p>
+</div>
 
 </div>
 
