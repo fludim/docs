@@ -41,7 +41,15 @@
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay">Nadir Gel</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay" onclick="fetchInfo('nadir-gel')">Nadir Gel</div></div>
+
+<div id="nadir-gel" class="info-hidden">
+<h3>Nadir Gel</h3><hr>
+<p>Nadir Gel is a substance used in crafting the Void Veil, and used as fuel for the Nadir Tunneller. It can also be used as furnace fuel, or in the vanilla crafting of torches.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Dropped from Psirots, I. Can be found in loot barrels in the stacks.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay">Hiatuan Cloth</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860975-adf4b1fe-ced9-4d53-bfdb-6f6638608675.png" alt="Garnet" class="image"><div class="overlay">Garnet</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860999-299fb2ac-2f80-41c0-a134-40c48758150b.gif" alt="Nullite Piece" class="image"><div class="overlay">Nullite Piece</div></div>
