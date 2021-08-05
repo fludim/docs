@@ -117,7 +117,7 @@
 
 <div id="nulliron-boots" class="info-hidden">
 <h3>Nulliron Boots</h3><hr>
-<p>Not very durable, give 2 armour points and 1 armour toughness. Protects the wearer from normal fall damage, will not be effective past a few hundred blocks though.</p>
+<p>Not very durable, give 2 armour points and 1 armour toughness. Protect the wearer from normal and even abnormal fall damage, but will not be effective in cases of ridiculous fall damage - past a few hundred blocks.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from four nulliron ingots.</p>
 </div>
@@ -146,14 +146,14 @@
 <h3>Heart of the Void</h3><hr>
 <p>A treasure item with a strong connection to the void. Used in crafting the Nadir Tunneller.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>Dropped from I half of the time.</p>
+<h4>How to obtain</h4><p>Dropped from I, half of the time.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860987-4a36a205-cd0f-4000-8787-ece3753c7fa9.gif" alt="Nadir Tunneller" class="image"><div class="overlay" onclick="fetchInfo('nadir-tunneller')">Nadir Tunneller</div></div>
 
 <div id="nadir-tunneller" class="info-hidden">
 <h3>Nadir Tunneller</h3><hr>
-<p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of a dimension to create a portal, be prepared to fall straight through. A portal back will also be created on the underside of where you used it. Both portals last 10:00 but do not deplete when not loaded.</p>
+<p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of a dimension to create a portal, be prepared to fall straight through. A portal back will also be created on the underside of where you used it. Both portals last 10:00 but do not deplete when unloaded.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from copper ingots, nulliron ingots and a Heart of the Void.</p>
 </div>
@@ -177,11 +177,50 @@
 
 <div class="gallery">
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869610-88435b6c-bb66-4d44-b4a1-4b0d50cc8f2a.gif" alt="Nullite Ore" class="image"><div class="overlay">Nullite Ore</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869609-6dd4b93e-9f4f-4a80-9994-4b91edf90d82.png" alt="Nulliron Block" class="image"><div class="overlay">Nulliron Block</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869608-7cda318f-b9e4-4e6f-8a7e-a12e8ccee83f.png" alt="Garnet Ore" class="image"><div class="overlay">Garnet Ore</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869607-4b969243-6058-47a6-9f5b-5d9773807b85.png" alt="Garnet Block" class="image"><div class="overlay">Garnet Block</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869600-626a1825-0cbe-4086-8adb-82d32b3056a3.gif" alt="Ocular Forge" class="image"><div class="overlay">Ocular Forge</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869610-88435b6c-bb66-4d44-b4a1-4b0d50cc8f2a.gif" alt="Nullite Ore" class="image"><div class="overlay" onclick="fetchInfo('nullite-ore')">Nullite Ore</div></div>
+
+<div id="nullite-ore" class="info-hidden">
+<h3>Nullite Ore</h3><hr>
+<p>Very unstable. Drops a nullite piece only when a Netherite Pickaxe with Silk Touch is used, with a 20% chance.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Found underground in most parts of the Underridge dimension. Too unstable to ever drop itself.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869609-6dd4b93e-9f4f-4a80-9994-4b91edf90d82.png" alt="Nulliron Block" class="image"><div class="overlay" onclick="fetchInfo('nulliron-block')">Nulliron Block</div></div>
+
+<div id="nulliron-block" class="info-hidden">
+<h3>Nullite Ore</h3><hr>
+<p>A storage form of nulliron ingots. Can be placed, and will work with beacons. Too many placed custom blocks may lag your client.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted from nine nulliron ingots in the Ocular Forge.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869608-7cda318f-b9e4-4e6f-8a7e-a12e8ccee83f.png" alt="Garnet Ore" class="image"><div class="overlay" onclick="fetchInfo('garnet-ore')">Garnet Ore</div></div>
+
+<div id="garnet-ore" class="info-hidden">
+<h3>Garnet Ore</h3><hr>
+<p>When mined with a diamond or higher pickaxe, drops from 1 to 4 garnets (fortune-affected). Drops itself if mined with Silk Touch. Can be placed, but too many custom blocks may lag your client.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Found buried in the Garnet Gorge.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869607-4b969243-6058-47a6-9f5b-5d9773807b85.png" alt="Garnet Block" class="image"><div class="overlay" onclick="fetchInfo('garnet-block')">Garnet Block</div></div>
+
+<div id="garnet-block" class="info-hidden">
+<h3>Garnet Block</h3><hr>
+<p>A storage form of garnets. Can also be placed, and will also work with beacons. Too many placed custom blocks may lag your client.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from nine garnets.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869600-626a1825-0cbe-4086-8adb-82d32b3056a3.gif" alt="Ocular Forge" class="image"><div class="overlay" onclick="fetchInfo('ocular-forge')">Ocular Forge</div></div>
+
+<div id="ocular-forge" class="info-hidden">
+<h3>Ocular Forge</h3><hr>
+<p>The custom crafter, allowing players to craft many of the datapack's custom items.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Found rarely in the stacks, in a particular room...</p>
+</div>
 
 </div>
 
@@ -193,11 +232,11 @@
 
 <div class="gallery gallery-centred">
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888756-f07b5921-839c-42a1-9b1b-a6ea9e0abbcd.png" alt="Cochineal" class="image"><div class="overlay">Cochineal</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888760-0db721a5-7e32-460c-a662-32c6ac105075.gif" alt="Haunted Armour" class="image"><div class="overlay">Haunted Armour</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888765-7ba19ee5-399a-4651-a5f1-57e5c297ad8a.gif" alt="Psirot" class="image"><div class="overlay">Psirot</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888764-4fce696f-86ec-451d-ae4d-f5f45742a259.png" alt="Midnight Pod" class="image"><div class="overlay">Midnight Pod</div></div>
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888762-09d035fd-0d3d-49fb-94ef-0bf6c23d8cec.png" alt="I" class="image"><div class="overlay">I</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888756-f07b5921-839c-42a1-9b1b-a6ea9e0abbcd.png" alt="Cochineal" class="image"><div class="overlay" onclick="fetchInfo('cochineal')">Cochineal</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888760-0db721a5-7e32-460c-a662-32c6ac105075.gif" alt="Haunted Armour" class="image"><div class="overlay" onclick="fetchInfo('haunted-armour')">Haunted Armour</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888765-7ba19ee5-399a-4651-a5f1-57e5c297ad8a.gif" alt="Psirot" class="image"><div class="overlay" onclick="fetchInfo('psirot')">Psirot</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888764-4fce696f-86ec-451d-ae4d-f5f45742a259.png" alt="Midnight Pod" class="image"><div class="overlay" onclick="fetchInfo('midnight-pod')">Midnight Pod</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888762-09d035fd-0d3d-49fb-94ef-0bf6c23d8cec.png" alt="I" class="image"><div class="overlay" onclick="fetchInfo('i')">I</div></div>
 
 </div>
 
