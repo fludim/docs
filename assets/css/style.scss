@@ -53,17 +53,13 @@ footer.site-footer {
 }
 
 #top-button {
-    display: none;
-    z-index: 99;
     border: none;
     outline: none;
     background-color: #555;
     background-image: url('/docs/assets/rocket.png');
-    color: white;
     cursor: pointer;
     padding: 15px;
-    border-radius: 10px;
-    font-size: 18px;
+    border-radius: 6px;
 }
 
 #top-button:hover {

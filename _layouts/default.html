@@ -18,17 +18,7 @@
     
     <script>
         button = document.getElementById("top-button");
-
-        window.onscroll = function () { onScroll() };
-
-        function onScroll() {
-            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-                button.style.display = "block";
-            } else {
-                button.style.display = "none";
-            }
-        }
-
+        
         function goToTop() {
             document.body.scrollTop = 0; // Safari
             document.documentElement.scrollTop = 0; // Chrome, Firefox, IE, Opera
