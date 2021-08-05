@@ -40,8 +40,27 @@
         {{ content }}
         
         <footer class="site-footer">
-            2021 by <a href="{{ site.github.owner_url }}">DylzDC</a>
+            <button onclick="goToTop()" id="top-button" title="Top">Top</button>
+            <p>2021 by <a href="{{ site.github.owner_url }}">DylzDC</a></p>
         </footer>
     </main>
+    <script>
+        button = document.getElementById("top-button");
+
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                button.style.display = "block";
+            } else {
+                button.style.display = "none";
+            }
+        }
+
+        function topFunction() {
+            document.body.scrollTop = 0; // Safari
+            document.documentElement.scrollTop = 0; // Chrome, Firefox, IE, Opera
+        }
+    </script>
 </body>
 
