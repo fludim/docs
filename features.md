@@ -292,8 +292,9 @@
 <h4>Added</h4><p>v0.1</p>
 <h4>How to find</h4><p>Summoned using a Stygian Iris.</p>
 <h4>Drops</h4>
-<p>0-8 Nadir Gel<p>
+<p>0-8 Nadir Gel</p>
 <p>1 Heart of the Void (50% drop rate)</p>
+
 </div>
 
 </div>
