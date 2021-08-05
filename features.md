@@ -52,7 +52,7 @@
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay" onclick="fetchInfo('hiatuan-cloth')">Hiatuan Cloth</div></div>
 
-<div id="universal-altimeter" class="info-hidden">
+<div id="hiatuan-cloth" class="info-hidden">
 <h3>Hiatuan Cloth</h3><hr>
 <p>Scraps of ancient fabric from a lost civilisation, this is used to craft the Void Veil.</p>
 <h4>Added</h4><p>v0.1</p>
