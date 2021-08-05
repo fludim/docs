@@ -267,7 +267,7 @@
 <h3>Psirot</h3><hr>
 <p>Psirots are equipped with two hands at first. If you are at a distance, they will fire hands at you, dealing wither effect and creating a cloud of instant damage when they hit non-air blocks or their target. They have to regenerate hands before firing again. If you get close, they will engage in combat, dealing 8, 5 or 3 damage and wither effect depending on how many hands it still has.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to find</h4><p>Persistent psirots spawn within the stacks, but they also spawn naturally in the Ochre Plains, Bleak Forest and Dismal Desert biomes.<p>
+<h4>How to find</h4><p>Persistent psirots spawn within the stacks, but they also spawn naturally in the Ochre Plains, Bleak Forest and Dismal Desert biomes.</p>
 <h4>Drops</h4>
 <p>0-2 Nadir Gel (0-4 with Fortune III)</p>
 <p>0-1 Hiatuan Cloth (Player kill only, 40% base drop rate, 0-3 with Fortune III)</p>
@@ -290,7 +290,7 @@
 <h3>I</h3><hr>
 <p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks from a bow are effective. By stage 2, arrows near it will do negligible damage. In the final stage, projectiles will bounce back if too close. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for health.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to find</h4><p>Summoned using a Stygian Iris.<p>
+<h4>How to find</h4><p>Summoned using a Stygian Iris.</p>
 <h4>Drops</h4>
 <p>0-8 Nadir Gel<p>
 <p>1 Heart of the Void (50% drop rate)</p>
