@@ -265,5 +265,3 @@ function fetchInfo(item) {
 </script>
 
 </div>
-
-[Top](#features)
