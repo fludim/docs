@@ -26,10 +26,10 @@
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860974-09d8d529-1aca-4a86-b153-eb88218d18a5.png" alt="Fallen Apple" class="image"><div class="overlay" onclick="fetchInfo('fallen-apple')">Fallen Apple</div></div>
 
 <div id="fallen-apple" class="info-hidden">
-<h3>Garnet</h3><hr>
-<p>Garnets can be used to craft Garnet Blocks, and the Universal Altimeter.</p>
+<h3>Fallen Apple</h3><hr>
+<p>When eaten in the Nether while under the effects of levitation, it teleports you down into the Underridge.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>They can mined from the Garnet Gorge biome in the Underridge, or found in loot barrels in the stacks.</p>
+<h4>How to obtain</h4><p>Dropped from decaying oak leaves in the Nether.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861004-8499d6a0-93c0-4c3a-9522-b42ce59737e5.gif" alt="Universal Altimeter" class="image"><div class="overlay" onclick="fetchInfo('universal-altimeter')">Universal Altimeter</div></div>
@@ -54,12 +54,20 @@
 
 <div id="hiatuan-cloth" class="info-hidden">
 <h3>Hiatuan Cloth</h3><hr>
-<p>Scraps of ancient fabric from a lost civilisation, this is used to craft the Void Veil.</p>
+<p>Scraps of ancient fabric from a lost civilisation, used to craft the Void Veil.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Dropped from Psirots, and can be found in loot barrels in the stacks.</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860975-adf4b1fe-ced9-4d53-bfdb-6f6638608675.png" alt="Garnet" class="image"><div class="overlay">Garnet</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860975-adf4b1fe-ced9-4d53-bfdb-6f6638608675.png" alt="Garnet" class="image"><div class="overlay" onclick="fetchInfo('garnet')">Garnet</div></div>
+
+<div id="garnet" class="info-hidden">
+<h3>Garnet</h3><hr>
+<p>Garnets can be used to craft Garnet Blocks, and the Universal Altimeter.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>They can mined from the Garnet Gorge biome in the Underridge, or found in loot barrels in the stacks.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860999-299fb2ac-2f80-41c0-a134-40c48758150b.gif" alt="Nullite Piece" class="image"><div class="overlay">Nullite Piece</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860994-7000d9ae-cf36-47da-8411-6b0274ee87a2.gif" alt="Nulliron Ingot" class="image"><div class="overlay">Nulliron Ingot</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860993-82cde2ec-6df5-4a81-bd9b-8b9d781b0dcb.gif" alt="Nulliron Helmet" class="image"><div class="overlay">Nulliron Helmet</div></div>
