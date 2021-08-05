@@ -184,6 +184,11 @@ footer.site-footer {
     }
 
     div.info {
+        position: -webkit-sticky;
+        position: sticky;
+        top: 50px;
+        align-self: flex-start;
+
         flex: 40%;
         background: #666;
         margin: 50px 40px 70px 20px;
