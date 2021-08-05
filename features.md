@@ -20,7 +20,7 @@
 <h3>Sky Pearl</h3><hr>
 <p>The Sky Pearl is an upcoming method of easily transporting between the Overworld and the Upper Sky. Right click with one of these and you will be taken to approximately your location in the other dimension. They will just break on impact if used in a different dimension.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>[FUTURE] Uncommon drop from endermen in the Upper Sky</p>
+<h4>How to obtain</h4><p>[FUTURE] Uncommon drop from endermen in the Upper Sky.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860974-09d8d529-1aca-4a86-b153-eb88218d18a5.png" alt="Fallen Apple" class="image"><div class="overlay" onclick="fetchInfo('fallen-apple')">Fallen Apple</div></div>
@@ -38,7 +38,7 @@
 <h3>Universal Altimeter</h3><hr>
 <p>The Universal Altimeter is a tool you can hold in either hand, that can read your absolute Y position across all vertically connected worlds. The total height is 1980 blocks, including Y 0 in Underridge and up to Y 255 in the Upper Sky.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>Crafted in the Ocular Forge</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay" onclick="fetchInfo('nadir-gel')">Nadir Gel</div></div>
@@ -50,7 +50,15 @@
 <h4>How to obtain</h4><p>Dropped from Psirots, I. Can be found in loot barrels in the stacks.</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay">Hiatuan Cloth</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay" onclick="fetchInfo('hiatuan-cloth')">Hiatuan Cloth</div></div>
+
+<div id="universal-altimeter" class="info-hidden">
+<h3>Hiatuan Cloth</h3><hr>
+<p>Scraps of ancient fabric from a lost civilisation, this is used to craft the Void Veil.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Dropped from Psirots, and can be found in loot barrels in the stacks.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860975-adf4b1fe-ced9-4d53-bfdb-6f6638608675.png" alt="Garnet" class="image"><div class="overlay">Garnet</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860999-299fb2ac-2f80-41c0-a134-40c48758150b.gif" alt="Nullite Piece" class="image"><div class="overlay">Nullite Piece</div></div>
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860994-7000d9ae-cf36-47da-8411-6b0274ee87a2.gif" alt="Nulliron Ingot" class="image"><div class="overlay">Nulliron Ingot</div></div>
