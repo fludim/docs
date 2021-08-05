@@ -173,7 +173,7 @@
 <h3>Void Veil</h3><hr>
 <p>Right-click to wear when head slot is empty. Provides a strong regeneration effect when void damage is taken, so regardless of dimension height, all voids can be traversed without the risk of death. Does not apply to dropped items.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>Crafter in the Ocular Forge from Hiatuan Cloth and Nadir Gel.</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from Hiatuan Cloth and Nadir Gel.</p>
 </div>
 
 </div>
@@ -242,10 +242,59 @@
 <div class="gallery gallery-centred">
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888756-f07b5921-839c-42a1-9b1b-a6ea9e0abbcd.png" alt="Cochineal" class="image"><div class="overlay" onclick="fetchInfo('cochineal')">Cochineal</div></div>
+
+<div id="cochineal" class="info-hidden">
+<h3>Cochineal</h3><hr>
+<p>A small, neutral mob. It has 14 health, falls slowly and is fire resistant, but will only attack you if you get very close.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to find</h4><p>It spawns in the Bleak Forest and Garnet Gorge biomes.</p>
+<h4>Drops</h4><p>0-2 Red Dye</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888760-0db721a5-7e32-460c-a662-32c6ac105075.gif" alt="Haunted Armour" class="image"><div class="overlay" onclick="fetchInfo('haunted-armour')">Haunted Armour</div></div>
+
+<div id="haunted-armour" class="info-hidden">
+<h3>Haunted Armour</h3><hr>
+<p>Can be golden, iron or netherite. Spawns in the Dismal Desert biome. All have the thorns enchantment and knockback on their swords, and golden and netherite have fire aspect. The better the tier, the more defence it has, but all have 36 health points.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to find</h4><p>It spawns in the Bleak Forest and Garnet Gorge biomes.</p>
+<h4>Drops</h4><p>Metal nuggets of its type, or if netherite, a chance of netherite scrap with gold nuggets.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888765-7ba19ee5-399a-4651-a5f1-57e5c297ad8a.gif" alt="Psirot" class="image"><div class="overlay" onclick="fetchInfo('psirot')">Psirot</div></div>
+
+<div id="psirot" class="info-hidden">
+<h3>Psirot</h3><hr>
+<p>Psirots are equipped with two hands at first. If you are at a distance, they will fire hands at you, dealing wither effect and creating a cloud of instant damage when they hit non-air blocks or their target. They have to regenerate hands before firing again. If you get close, they will engage in combat, dealing 8, 5 or 3 damage and wither effect depending on how many hands it still has.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to find</h4><p>Persistent psirots spawn within the stacks, but they also spawn naturally in the Ochre Plains, Bleak Forest and Dismal Desert biomes.<p>
+<h4>Drops</h4>
+<p>0-2 Nadir Gel (0-4 with Fortune III)</p>
+<p>0-1 Hiatuan Cloth (Player kill only, 40% base drop rate, 0-3 with Fortune III)</p>
+<p>1 Stygian Iris (Player kill only, 1% drop rate)</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888764-4fce696f-86ec-451d-ae4d-f5f45742a259.png" alt="Midnight Pod" class="image"><div class="overlay" onclick="fetchInfo('midnight-pod')">Midnight Pod</div></div>
+
+<div id="midnight-pod" class="info-hidden">
+<h3>Midnight Pod</h3><hr>
+<p>Starting small, it takes 2000 seconds to grow to full size, but only 750 to 'ripen' and open. Once ripe, Midnight Broth can be extracted from it using a bowl, and it closes until ripe again.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to find</h4><p>It spawns inside glass pod-like structures on the surface of the Bleak Forest and Ochre Plains biomes.</p>
+<h4>Drops</h4><p>Nothing if killed.</p>
+</div>
+
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127888762-09d035fd-0d3d-49fb-94ef-0bf6c23d8cec.png" alt="I" class="image"><div class="overlay" onclick="fetchInfo('i')">I</div></div>
+
+<div id="i" class="info-hidden">
+<h3>I</h3><hr>
+<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks from a bow are effective. By stage 2, arrows near it will do negligible damage. In the final stage, projectiles will bounce back if too close. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for health.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to find</h4><p>Summoned using a Stygian Iris.<p>
+<h4>Drops</h4>
+<p>0-8 Nadir Gel<p>
+<p>1 Heart of the Void (50% drop rate)</p>
+</div>
 
 </div>
 
