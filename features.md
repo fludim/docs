@@ -131,7 +131,7 @@
 <h4>How to obtain</h4><p>Can be extracted renewably from Midnight Pods, or found in the stacks.</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861002-04a7563b-0b1d-47a8-892d-c999fbf69fff.gif" alt="Stygian Iris" class="image"><div class="overlay" onclick="fetchInfo('stygian-iris')">Stygian Iris</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/128364230-29048d39-5ca6-4392-b1ae-acbf53b7643e.gif" alt="Stygian Iris" class="image"><div class="overlay" onclick="fetchInfo('stygian-iris')">Stygian Iris</div></div>
 
 <div id="stygian-iris" class="info-hidden">
 <h3>Stygian Iris</h3><hr>
@@ -165,6 +165,15 @@
 <p>Allows temporary escape to the warp dimension. Any distance travelled while floating there is multiplied sixteen-fold upon return. If no solid surface to teleport to is found, the player is dropped from above the height limit, usually when a liquid is below.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>[FUTURE] Found in loot barrels in the stacks.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/128364238-ed85b677-7117-47d3-9d57-05b498e1af9a.gif" alt="Void Veil" class="image"><div class="overlay" onclick="fetchInfo('void-veil')">Void Veil</div></div>
+
+<div id="void-veil" class="info-hidden">
+<h3>Void Veil</h3><hr>
+<p>Right-click to wear when head slot is empty. Provides a strong regeneration effect when void damage is taken, so regardless of dimension height, all voids can be traversed without the risk of death. Does not apply to dropped items.</p>
+<h4>Added</h4><p>v0.1</p>
+<h4>How to obtain</h4><p>Crafter in the Ocular Forge from Hiatuan Cloth and Nadir Gel.</p>
 </div>
 
 </div>
@@ -244,7 +253,7 @@
 
 </div>
 
-<div id="info-box" class="info">Click a tile for more information</div>
+<div id="info-box" class="info"><h4>Click a tile for more information</h4></div>
 
 <script>
 
