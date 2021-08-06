@@ -1,3 +1,3 @@
 title: FD Wiki
 description: Fluid Dimensions Wiki
-permalink: /docs/devblog/:year/:month/:day/:title.html
+permalink: "/docs/devblog/:year/:month/:day/:title.html"
