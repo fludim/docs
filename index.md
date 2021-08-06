@@ -13,7 +13,7 @@ Fluid Dimensions brings:
  
 - 1 custom 'stacks' structure in the Underridge.
  
-- 1 new boss, summonable via the currently unobtainable item:
+- 1 new boss, summonable with the Stygian Iris, dropped by Psirots. Give command:
  
     `/function fluid_dimensions:give/stygian_iris`
  
@@ -27,7 +27,7 @@ Fluid Dimensions brings:
  
 - 1 custom armour set, with fully working rendered model on players, armour stands etc. No brown leather kneecaps like regular dyed pieces!
  
-- Travel between dimensions by flying, falling, and 'tunnelling' through bedrock - without breaking it - (Nadir Tunneller only available via the give command for now:
+- Travel between dimensions by flying, falling, and 'tunnelling' through bedrock - without breaking it - Nadir Tunneller only available via the give command for now:
  
     `/function fluid_dimensions:give/nadir_tunneller`
  
