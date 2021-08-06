@@ -46,3 +46,9 @@ Go to [Download](/docs/download) to download the pack for yourself.
 If you would do such a thing... make sure to run `/function fluid_dimensions:uninstall`
 to safely disable features __before__ disabling the datapack. You can then remove the datapack
 and resource pack, but you may be left with useless items which you can destroy yourself.
+
+## Contact
+
+To get in touch with either myself or other players, you can join the Discord Server below or DM me @DylzDC#6906.
+
+<iframe src="https://discord.com/widget?id=868522267775234078&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
