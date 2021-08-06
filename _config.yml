@@ -1,4 +1,4 @@
 title: FD Wiki
 description: Fluid Dimensions Wiki
 permalink: "/devblog/:year/:month/:day/:title.html"
-baseurl: /docs/
+baseurl: /docs
