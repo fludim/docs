@@ -39,6 +39,7 @@
 <p>The Universal Altimeter is a tool you can hold in either hand, that can read your absolute Y position across all vertically connected worlds. The total height is 1980 blocks, including Y 0 in Underridge and up to Y 255 in the Upper Sky.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498949-34ffaeb7-2fa3-439b-9334-37be3035d03d.png" alt="Universal Altimeter Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay" onclick="fetchInfo('nadir-gel')">Nadir Gel</div></div>
@@ -66,6 +67,7 @@
 <p>Garnets can be used to craft Garnet Blocks, and the Universal Altimeter.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Mined from the Garnet Gorge biome in the Underridge, or found in loot barrels in the stacks.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498934-8b0f7896-83c5-49f8-a136-e38df9207ac4.png" alt="Garnet from Garnet Block Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860999-299fb2ac-2f80-41c0-a134-40c48758150b.gif" alt="Nullite Piece" class="image"><div class="overlay" onclick="fetchInfo('nullite-piece')">Nullite Piece</div></div>
@@ -84,6 +86,8 @@
 <p>An alloy of nullite and iron, used to make armour and tools. It resonates just like nullite.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from nullite pieces and iron ingots, or from Nulliron Blocks.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498944-4a0e0e38-a6ee-4e8d-8594-a3ada76c462c.png" alt="Nulliron Ingot Recipe" class="recipe-image">
+<img src="https://user-images.githubusercontent.com/69795628/128498945-faf6a9a7-8653-4b36-8cad-df3161e60c1e.png" alt="Nulliron Ingot from Nulliron Block Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860993-82cde2ec-6df5-4a81-bd9b-8b9d781b0dcb.gif" alt="Nulliron Helmet" class="image"><div class="overlay" onclick="fetchInfo('nulliron-helmet')">Nulliron Helmet</div></div>
@@ -93,6 +97,7 @@
 <p>Not very durable, but gives 3 armour points and 1 armour toughness. Protects the wearer from suffocation damage.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from five nulliron ingots.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498943-a8a7a80d-ec85-4d77-81f4-d284efd8d599.png" alt="Nulliron Helmet Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860990-59fc484b-13eb-445d-ab4a-6b458e3c7676.gif" alt="Nulliron Chestplate" class="image"><div class="overlay" onclick="fetchInfo('nulliron-chestplate')">Nulliron Chestplate</div></div>
@@ -102,6 +107,7 @@
 <p>Not so durable, but gives 6 armour points and 2 armour toughness. Grants temporary immunity to fire and lava damage upon touching fire blocks.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from eight nulliron ingots.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498941-e4d9ec07-d002-4072-9d09-bd0f4a97c9ae.png" alt="Nulliron Chestplate Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860997-d62b9c21-dc4b-4f7d-843d-510b7596cfc0.gif" alt="Nulliron Leggings" class="image"><div class="overlay" onclick="fetchInfo('nulliron-leggings')">Nulliron Leggings</div></div>
@@ -111,6 +117,7 @@
 <p>Not the most durable, but give 6 armour points and 2 armour toughness. Negate all knockback from attacks.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from seven nulliron ingots.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498947-586a52fc-e747-4937-b523-6b7028b84dbe.png" alt="Nulliron Leggings Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860988-b60ff9f0-2b97-44a7-935f-03aa55f30cef.gif" alt="Nulliron Boots" class="image"><div class="overlay" onclick="fetchInfo('nulliron-boots')">Nulliron Boots</div></div>
@@ -120,6 +127,7 @@
 <p>Not very durable, give 2 armour points and 1 armour toughness. Protect the wearer from normal and even abnormal fall damage, but will not be effective in cases of ridiculous fall damage - past a few hundred blocks.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from four nulliron ingots.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498938-3715e909-33f9-490d-ab26-5e75cb03d793.png" alt="Nulliron Boots Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860983-c56992b5-431a-4a8d-a8ef-2cb8ec5f3dde.png" alt="Midnight Broth" class="image"><div class="overlay" onclick="fetchInfo('midnight-broth')">Midnight Broth</div></div>
@@ -156,6 +164,7 @@
 <p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of a dimension to create a portal, be prepared to fall straight through. A portal back will also be created on the underside of where you used it. Both portals last 10:00 but do not deplete when unloaded.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from copper ingots, nulliron ingots and a Heart of the Void.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498936-f916aeae-cc59-40ae-9c15-c41df345ad2c.png" alt="Nadir Tunneller Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860969-bce42d2b-7fd9-4f84-9a85-febb0087c40a.png" alt="Enchanted Warped Door" class="image"><div class="overlay" onclick="fetchInfo('enchanted-warped-door')">Enchanted Warped Door</div></div>
@@ -174,6 +183,7 @@
 <p>Right-click to wear when head slot is empty. Provides a strong regeneration effect when void damage is taken, so regardless of dimension height, all voids can be traversed without the risk of death. Does not apply to dropped items.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from Hiatuan Cloth and Nadir Gel.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498953-36b16162-2d5e-4d3c-8f70-59d9c0ece202.png" alt="Void Veil Recipe" class="recipe-image">
 </div>
 
 </div>
@@ -202,6 +212,7 @@
 <p>A storage form of nulliron ingots. Can be placed, and will work with beacons. Too many placed custom blocks may lag your client.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted from nine nulliron ingots in the Ocular Forge.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498937-c6132c42-915c-4a18-a23b-d4dbc975c99e.png" alt="Nulliron Block Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869608-7cda318f-b9e4-4e6f-8a7e-a12e8ccee83f.png" alt="Garnet Ore" class="image"><div class="overlay" onclick="fetchInfo('garnet-ore')">Garnet Ore</div></div>
@@ -220,6 +231,7 @@
 <p>A storage form of garnets. Can also be placed, and will also work with beacons. Too many placed custom blocks may lag your client.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from nine garnets.</p>
+<img src="https://user-images.githubusercontent.com/69795628/128498932-88788808-af4b-41e1-a195-a6d0a8729314.png" alt="Garnet Block Recipe" class="recipe-image">
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127869600-626a1825-0cbe-4086-8adb-82d32b3056a3.gif" alt="Ocular Forge" class="image"><div class="overlay" onclick="fetchInfo('ocular-forge')">Ocular Forge</div></div>
