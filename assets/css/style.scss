@@ -9,7 +9,7 @@ body {
     padding: 2.5% 1%;
 }
 
-header.page-header {
+header.page-header, h1 {
     border: none;
     border-radius: 0px;
     background: #333;
@@ -89,6 +89,10 @@ footer.site-footer {
         color: #FDFDDD;
         font-family: 'Montserrat', sans-serif;
     }
+
+    h1 {
+        font-size: 24px;
+    }  
     
     p, strong {
         color: #FFF;
