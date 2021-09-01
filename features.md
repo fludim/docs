@@ -186,6 +186,34 @@
 <img src="https://user-images.githubusercontent.com/69795628/128498953-36b16162-2d5e-4d3c-8f70-59d9c0ece202.png" alt="Void Veil Recipe" class="recipe-image">
 </div>
 
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702174-22c69f65-c986-4f8e-8593-37fd0f647f55.gif" alt="Bottled Miasma" class="image"><div class="overlay" onclick="fetchInfo('bottled-miasma')">Bottled Miasma</div></div>
+
+<div id="bottled-miasma" class="info-hidden">
+<h3>Bottled Miasma</h3><hr>
+<p>A potent gaseous emission from the I. Collect it from the harmful clouds it creates when damaged. Can be crafted into Volatile Effluvia.</p>
+<h4>Added</h4><p>v0.1.1</p>
+<h4>How to obtain</h4><p>Collected from the I using a glass bottle.</p>
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702171-62cd283e-19c9-4636-a886-66490646548f.gif" alt="Volatile Effluvia" class="image"><div class="overlay" onclick="fetchInfo('volatile-effluvia')">Volatile Effluvia</div></div>
+
+<div id="volatile-effluvia" class="info-hidden">
+<h3>Volatile Effluvia</h3><hr>
+<p>Can be thrown to create an explosion with fire and deadly clouds of Blindness, Slowness, Wither and Weakness. Use at your own risk; with mobGriefing enabled this can destroy blocks.</p>
+<h4>Added</h4><p>v0.1.1</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge from Bottled Miasma, Dragon Breath and a Fire Charge. Shapeless recipe.</p>
+<img src="https://user-images.githubusercontent.com/69795628/131704484-4f61dbe5-5625-4f28-8dbc-8fa255fec14c.png" alt="Volatile Effluvia Recipe" class="recipe-image">
+</div>
+
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702169-22da071c-5143-4d7e-b209-1f90f91326ba.png" alt="Realmglass" class="image"><div class="overlay" onclick="fetchInfo('realmglass')">Realmglass</div></div>
+
+<div id="realmglass" class="info-hidden">
+<h3>Realmglass</h3><hr>
+<p>Used to charge Warp Portal Blocks by tossing it into one.</p>
+<h4>Added</h4><p>v0.1.1</p>
+<h4>How to obtain</h4><p>Dropped from Echoes when player-killed.</p>
+</div>
+
 </div>
 
 </details>
