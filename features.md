@@ -14,7 +14,7 @@
 
 <div class="gallery">
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127861001-0bcb7586-22ce-43a6-8db1-9769307a42fa.png" alt="Sky Pearl" class="image"><div class="overlay" onclick="fetchInfo('sky-pearl')">Sky Pearl</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702182-27c21231-1f45-4b11-81aa-07f3fccbd517.png" alt="Sky Pearl" class="image"><div class="overlay" onclick="fetchInfo('sky-pearl')">Sky Pearl</div></div>
 
 <div id="sky-pearl" class="info-hidden">
 <h3>Sky Pearl</h3><hr>
@@ -42,7 +42,7 @@
 <img src="https://user-images.githubusercontent.com/69795628/128498949-34ffaeb7-2fa3-439b-9334-37be3035d03d.png" alt="Universal Altimeter Recipe" class="recipe-image">
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860984-d911b757-532c-4d06-93b7-7db7c8c8ec19.png" alt="Nadir Gel" class="image"><div class="overlay" onclick="fetchInfo('nadir-gel')">Nadir Gel</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702178-e7d8b2b9-4ef7-4b77-aa79-7f34d4d7c877.png" alt="Nadir Gel" class="image"><div class="overlay" onclick="fetchInfo('nadir-gel')">Nadir Gel</div></div>
 
 <div id="nadir-gel" class="info-hidden">
 <h3>Nadir Gel</h3><hr>
@@ -51,7 +51,7 @@
 <h4>How to obtain</h4><p>Dropped from Psirots, I. Can be found in loot barrels in the stacks.</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860981-0b091bfb-1ff7-44dd-87f6-4fa08ea5ad62.png" alt="Hiatuan Cloth" class="image"><div class="overlay" onclick="fetchInfo('hiatuan-cloth')">Hiatuan Cloth</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702176-ec8848c7-3cad-4c8f-9355-4e0a38005d8f.png" alt="Hiatuan Cloth" class="image"><div class="overlay" onclick="fetchInfo('hiatuan-cloth')">Hiatuan Cloth</div></div>
 
 <div id="hiatuan-cloth" class="info-hidden">
 <h3>Hiatuan Cloth</h3><hr>
@@ -139,7 +139,7 @@
 <h4>How to obtain</h4><p>Can be extracted renewably from Midnight Pods, or found in the stacks.</p>
 </div>
 
-<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/128364230-29048d39-5ca6-4392-b1ae-acbf53b7643e.gif" alt="Stygian Iris" class="image"><div class="overlay" onclick="fetchInfo('stygian-iris')">Stygian Iris</div></div>
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131702166-0a8c1aee-9166-4c80-a043-acf0b7df8130.gif" alt="Stygian Iris" class="image"><div class="overlay" onclick="fetchInfo('stygian-iris')">Stygian Iris</div></div>
 
 <div id="stygian-iris" class="info-hidden">
 <h3>Stygian Iris</h3><hr>
