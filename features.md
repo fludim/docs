@@ -318,8 +318,8 @@
 <h4>Added</h4><p>v0.1</p>
 <h4>How to find</h4><p>Persistent psirots spawn within the stacks, but they also spawn naturally in the Ochre Plains, Bleak Forest and Dismal Desert biomes.</p>
 <h4>Drops</h4>
-<p>0-2 Nadir Gel (0-4 with Fortune III)</p>
-<p>0-1 Hiatuan Cloth (Player kill only, 40% base drop rate, 0-3 with Fortune III)</p>
+<p>0-2 Nadir Gel (0-4 with Looting III)</p>
+<p>0-1 Hiatuan Cloth (Player kill only, 40% base drop rate, 0-3 with Looting III)</p>
 <p>1 Stygian Iris (Player kill only, 1% drop rate)</p>
 </div>
 
@@ -337,13 +337,27 @@
 
 <div id="i" class="info-hidden">
 <h3>I</h3><hr>
-<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks from a bow are effective. By stage 2, arrows near it will do negligible damage. In the final stage, projectiles will bounce back if too close. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for health.</p>
+<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks are effective. By stage 2, arrows, tridents etc will bounce back if too close. Consider careful meleé attacks. In the final stage, the I will be able to track you with a red laser beam. If you are tracked for long enough, the beam will cause a burst of damaging area effect clouds where it hits. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for their health.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to find</h4><p>Summoned using a Stygian Iris.</p>
 <h4>Drops</h4>
 <p>0-8 Nadir Gel</p>
 <p>1 Heart of the Void (50% drop rate)</p>
+</div>
 
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131889634-8c973570-923a-4f73-87c6-2b103d2727f3.png" alt="Echo" class="image"><div class="overlay" onclick="fetchInfo('echo')">Echo</div></div>
+
+<div id="echo" class="info-hidden">
+<h3>Echo</h3><hr>
+<p>Copies your held items, and uses them against you. Has 80 health points, and can be very fast.</p>
+<h4>Added</h4><p>v0.1.1</p>
+<h4>How to find</h4><p>Spawns in the Dismal Desert biome.</p>
+<h4>Drops</h4>
+<p>0-2 Realmglass (Player kill only, 0-3 with Looting)</p>
+<p>And 1 or 2 entries from the following (can repeat):</p>
+<p>0-2 Iron Ingot (0-4 with Looting)</p>
+<p>0-2 Iron Bars</p>
+<p>0-2 Iron Nugget</p>
 </div>
 
 </div>
