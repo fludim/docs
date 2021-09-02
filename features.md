@@ -271,6 +271,15 @@
 <h4>How to obtain</h4><p>Found rarely in the stacks, in a particular room...</p>
 </div>
 
+<div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131838990-b1bb1f7d-f4e7-40a9-ae0d-d8895990e5bc.png" alt="Warp Block" class="image"><div class="overlay" onclick="fetchInfo('warp-block')">Warp Block</div></div>
+
+<div id="warp-block" class="info-hidden">
+<h3>Warp Block</h3><hr>
+<p>Throw a piece of realmglass in it to charge it, and hop in to be taken to the Warp Dimension's core.</p>
+<h4>Added</h4><p>v0.1.1</p>
+<h4>How to obtain</h4><p>Found scarcely in the Dismal Desert. Cannot be obtained.</p>
+</div>
+
 </div>
 
 </details>
