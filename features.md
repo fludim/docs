@@ -337,7 +337,7 @@
 
 <div id="i" class="info-hidden">
 <h3>I</h3><hr>
-<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks are effective. By stage 2, arrows, tridents etc will bounce back if too close. Consider careful meleé attacks. In the final stage, the I will be able to track you with a red laser beam. If you are tracked for long enough, the beam will cause a burst of damaging area effect clouds where it hits. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for their health.</p>
+<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks are effective. By stage 2, arrows, tridents etc will bounce back if too close. Consider careful mêlée attacks. In the final stage, the I will be able to track you with a red laser beam. If you are tracked for long enough, the beam will cause a burst of damaging area effect clouds where it hits. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for their health.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to find</h4><p>Summoned using a Stygian Iris.</p>
 <h4>Drops</h4>
