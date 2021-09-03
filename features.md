@@ -275,7 +275,7 @@
 
 <div id="warp-block" class="info-hidden">
 <h3>Warp Block</h3><hr>
-<p>Throw a piece of realmglass in it to charge it, and hop in to be taken to the Warp Dimension's core.</p>
+<p>A strange-looking hole in the fabric of the multiverse, with a TV static effect using shaders. Throw a piece of realmglass in it to charge it, and hop in to be taken to the Warp Dimension's core.</p>
 <h4>Added</h4><p>v0.1.1</p>
 <h4>How to obtain</h4><p>Found scarcely in the Dismal Desert. Cannot be obtained.</p>
 </div>
