@@ -9,7 +9,7 @@ See the [Features](/features) page to browse all the pack's features by category
 
 Fluid Dimensions brings:
 
-- 2 new dimensions (Underridge - underworld-like, fairly packed; Upper Sky - quite empty and not very done yet).
+- 3 new dimensions (Underridge - underworld-like, fairly packed; Upper Sky - quite empty and not very done yet, Warp Dimension- 'hub' world).
  
 - 1 custom 'stacks' structure in the Underridge.
  
@@ -17,20 +17,18 @@ Fluid Dimensions brings:
  
     `/function fluid_dimensions:give/stygian_iris`
  
-- 3 new enemies: Cochineals (neutral unless you approach), Haunted Armour and Psirots.
+- 4 new enemies: Cochineals (neutral unless you approach), Haunted Armour, Psirots and Echoes, that use your held items against you.
  
-- Over 17 new items, with unique uses, including mob drops, materials, and tools.
+- 21 new items, with unique uses, including mob drops, materials, and tools for navigating the worlds.
  
-- 5 custom blocks, including a custom crafter found rarely in the stacks structure.
+- 6 custom blocks, including a custom crafter found rarely in the stacks structure and the Warp portals.
  
-  Recipes exist for 'nulliron', an alloy material; crafting blocks from garnets and nulliron (and back); the nulliron armour set; the Universal Altimeter and the Void Veil. A custom GUI makes it almost seamless with vanilla expectations.
+  Recipes exist for 'nulliron', an alloy material; crafting blocks from garnets and nulliron (and back); the nulliron armour set; the Universal Altimeter, the Void Veil, and the Nadir Tunneller. A custom GUI makes it almost seamless with vanilla expectations.
  
 - 1 custom armour set, with fully working rendered model on players, armour stands etc. No brown leather kneecaps like regular dyed pieces!
  
-- Travel between dimensions by flying, falling, and 'tunnelling' through bedrock - without breaking it - Nadir Tunneller only available via the give command for now:
- 
-    `/function fluid_dimensions:give/nadir_tunneller`
- 
+- Travel between dimensions by flying, falling, and 'tunnelling' through bedrock (includes Nether roof) - without breaking it - using the Nadir Tunneller
+
 - Navigate 5 characterful yet very hostile biomes in the Underridge, with 30 custom decoration and terrain building features. It can be a challenge even in endgame!
  
 - Will soon hopefully be an MCD Certified Datapack, following optional style guidelines.
