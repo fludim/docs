@@ -18,9 +18,9 @@
 
 <div id="sky-pearl" class="info-hidden">
 <h3>Sky Pearl</h3><hr>
-<p>The Sky Pearl is an upcoming method of easily transporting between the Overworld and the Upper Sky. Right click with one of these and you will be taken to approximately your location in the other dimension. They will just break on impact if used in a different dimension.</p>
+<p>The Sky Pearl is a method of easily transporting between the Overworld and the Upper Sky. Right click with one of these and you will be taken to approximately your location in the other dimension. They will break on impact if used in a different dimension.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>[FUTURE] Uncommon drop from endermen in the Upper Sky.</p>
+<h4>How to obtain</h4><p>30% drop rate from endermen in the Upper Sky.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860974-09d8d529-1aca-4a86-b153-eb88218d18a5.png" alt="Fallen Apple" class="image"><div class="overlay" onclick="fetchInfo('fallen-apple')">Fallen Apple</div></div>
@@ -38,7 +38,7 @@
 <h3>Universal Altimeter</h3><hr>
 <p>The Universal Altimeter is a tool you can hold in either hand, that can read your absolute Y position across all vertically connected worlds. The total height is 1980 blocks, including Y 0 in Underridge and up to Y 255 in the Upper Sky.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>Crafted in the Ocular Forge.</p>
+<h4>How to obtain</h4><p>Crafted in the Ocular Forge, shapeless.</p>
 <img src="https://user-images.githubusercontent.com/69795628/128498949-34ffaeb7-2fa3-439b-9334-37be3035d03d.png" alt="Universal Altimeter Recipe" class="recipe-image">
 </div>
 
@@ -154,7 +154,7 @@
 <h3>Heart of the Void</h3><hr>
 <p>A treasure item with a strong connection to the void. Used in crafting the Nadir Tunneller.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>Dropped from I, half of the time.</p>
+<h4>How to obtain</h4><p>Dropped from I.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/127860987-4a36a205-cd0f-4000-8787-ece3753c7fa9.gif" alt="Nadir Tunneller" class="image"><div class="overlay" onclick="fetchInfo('nadir-tunneller')">Nadir Tunneller</div></div>
