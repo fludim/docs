@@ -161,7 +161,7 @@
 
 <div id="nadir-tunneller" class="info-hidden">
 <h3>Nadir Tunneller</h3><hr>
-<p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of a dimension to create a portal, be prepared to fall straight through. A portal back will also be created on the underside of where you used it. Both portals last 10:00 but do not deplete when unloaded.</p>
+<p>Allows for passage through bedrock. Right-click while standing on the lowest bedrock layer of some dimensions; or on either side of the Nether roof, to create a portal. Be prepared to pop straight through. A portal back will also be created on the other side of where you used it. Both portals last 10:00 but do not deplete when unloaded. The tool has a 20 second cooldown for creating new portals, but removing an existing pair ([shift + right click] while next to it) will reset this cooldown.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to obtain</h4><p>Crafted in the Ocular Forge from copper ingots, nulliron ingots and a Heart of the Void.</p>
 <img src="https://user-images.githubusercontent.com/69795628/128498936-f916aeae-cc59-40ae-9c15-c41df345ad2c.png" alt="Nadir Tunneller Recipe" class="recipe-image">
@@ -173,7 +173,7 @@
 <h3>Enchanted Warped Door</h3><hr>
 <p>Allows temporary escape to the warp dimension. Any distance travelled while floating there is multiplied sixteen-fold upon return. If no solid surface to teleport to is found, the player is dropped from above the height limit, usually when a liquid is below.</p>
 <h4>Added</h4><p>v0.1</p>
-<h4>How to obtain</h4><p>[FUTURE] Found in loot barrels in the stacks.</p>
+<h4>How to obtain</h4><p>Found in the secret loot barrels in the stacks.</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/128364238-ed85b677-7117-47d3-9d57-05b498e1af9a.gif" alt="Void Veil" class="image"><div class="overlay" onclick="fetchInfo('void-veil')">Void Veil</div></div>
@@ -337,12 +337,12 @@
 
 <div id="i" class="info-hidden">
 <h3>I</h3><hr>
-<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks are effective. By stage 2, arrows, tridents etc will bounce back if too close. Consider careful mêlée attacks. In the final stage, the I will be able to track you with a red laser beam. If you are tracked for long enough, the beam will cause a burst of damaging area effect clouds where it hits. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for their health.</p>
+<p>The I boss has 500 health points, and hovers around. It has three stages, through which it increases its attack damage. When hit, it releases a miasma of wither and blindness effect that should be avoided. In stage 1, ranged attacks are effective. By stage 2, arrows, tridents etc. will bounce back if too close. Consider careful mêlée attacks. In the final stage, the I will be able to track you with a red laser beam. If you are tracked for long enough, the beam will cause a burst of damaging area effect clouds where it hits. Each time it changes phase, it blasts away the player and gains additional particle effects. Up to 5 Is can be tracked at once with the datapack's bossbar system for showing health.</p>
 <h4>Added</h4><p>v0.1</p>
 <h4>How to find</h4><p>Summoned using a Stygian Iris.</p>
 <h4>Drops</h4>
 <p>0-8 Nadir Gel</p>
-<p>1 Heart of the Void (50% drop rate)</p>
+<p>1 Heart of the Void</p>
 </div>
 
 <div class="image-container"><img src="https://user-images.githubusercontent.com/69795628/131889634-8c973570-923a-4f73-87c6-2b103d2727f3.png" alt="Echo" class="image"><div class="overlay" onclick="fetchInfo('echo')">Echo</div></div>
