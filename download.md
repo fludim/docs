@@ -1,6 +1,6 @@
 # Download
 
-Here you can get the latest Fluid Dimensions release. Historical releases not listed here can be found in the GitHub repository's [releases](https://github.com/fludim/fluid_dimensions/releases/) section.
+Here you can get the latest Fluid Dimensions release. Historical releases not listed here can be found in the GitHub repository's [releases](https://github.com/fludim/fluid_dimensions/releases/) section. ([Resource Pack releases](https://github.com/fludim/fluid_dimensions_resources/releases/))
 
 ## v0.1.1 (Current) for 1.17.1
 
